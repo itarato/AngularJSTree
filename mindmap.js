@@ -12,9 +12,9 @@ function MindMap($scope) {
     }
   };
 
-  $scope.delete_child = function(parent_node, p) {
-    delete p[parent_node];
-    // console.log('del');
-    // console.log(p);
+  /*
+  $scope.delete_child = function() {
+    // @todo Find out how to do deletion.
   };
+  */
 }
