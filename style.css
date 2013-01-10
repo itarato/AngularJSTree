@@ -1,0 +1,16 @@
+.subtree {
+  border-left: 2px solid #6688AA;
+  padding-left: 6px;
+}
+
+form {
+  display: inline;
+}
+
+.node-actions {
+  display: none;
+}
+
+.node:hover .node-actions {
+  display: inline;
+}
